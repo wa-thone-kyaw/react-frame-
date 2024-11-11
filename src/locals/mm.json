@@ -1,0 +1,28 @@
+{
+  "sidebar": {
+    "dashboard": "ဒက်ရှ်ဘုတ်",
+    "profile": "ပရိုဖိုင်",
+    "employee": "ဝန်ထမ်းများ",
+    "products": "ထုတ်ကုန်များ",
+    "addProducts": "ထုတ်ကုန်ထည့်ပါ",
+    "productList": "ထုတ်ကုန်စာရင်း",
+    "suppliers": "ပေးသွင်းသူများ",
+    "addSupplier": "ပေးသွင်းသူထည့်ပါ",
+    "suppliersList": "ပေးသွင်းသူများစာရင်း",
+    "rawMaterials": "ကုန်ကြမ်းစီမံခန့်ခွဲမှု",
+    "addRawMaterial": "ကုန်ကြမ်းထည့်ပါ",
+    "rawMaterialsList": "ကုန်ကြမ်းစာရင်း",
+    "orders": "အော်ဒါများ",
+    "addOrder": "အော်ဒါများထည့်ပါ",
+    "ordersList": "အော်ဒါများစာရင်း",
+    "roleAndPermission": "အခန်းကဏ္ဍနှင့်ခွင့်ပြုချက်",
+    "addRoleAndPermission": "အခန်းကဏ္ဍများနှင့် ခွင့်ပြုချက်များကို ထည့်ပါ",
+    "rolesAndPermissionsList": "အခန်းကဏ္ဍများနှင့် ခွင့်ပြုချက်များစာရင်း",
+    "settings": "ဆက်တင်များ",
+    "colors": "အရောင်များ",
+    "types": "အမျိုးအစား",
+    "categories": "အမျိုးအစားများ",
+    "generalSettings": "အထွေထွေဆက်တင်များ",
+    "usersManagement": "အသုံးပြုသူစီမံခန့်ခွဲမှု"
+  }
+}

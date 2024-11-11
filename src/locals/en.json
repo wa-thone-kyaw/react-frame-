@@ -1,0 +1,31 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "employee": "Employee",
+    "products": "Products",
+    "addProducts": "Add Product",
+    "productList": "Products List",
+    "customers": "Customers",
+    "addCustomer": "Add Customer",
+    "customersList": "Customers List",
+    "suppliers": "Suppliers",
+    "addSupplier": "Add Supplier",
+    "suppliersList": "Suppliers List",
+    "rawMaterials": "Raw Materials",
+    "addRawMaterial": "Add RawMaterial",
+    "rawMaterialsList": "RawMaterials List",
+    "orders": "Orders",
+    "addOrder": "Add Order",
+    "ordersList": "Orders List",
+    "roleAndPermission": "Role And Permission",
+    "addRoleAndPermission": "Add Role And Permission",
+    "rolesAndPermissionsList": "Roles And Permissions List",
+    "settings": "Settings",
+    "colors": "Colors",
+    "types": "Types",
+    "categories": "Categories",
+    "generalSettings": "General Settings",
+    "usersManagement": "Users Management"
+  }
+}

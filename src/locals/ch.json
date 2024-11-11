@@ -1,0 +1,31 @@
+{
+  "sidebar": {
+    "dashboard": "仪表板",
+    "profile": "个人资料",
+    "employee": "员工",
+    "products": "产品",
+    "addProducts": "添加产品",
+    "productList": "产品列表",
+    "customers": "顾客",
+    "addCustomer": "添加客户",
+    "customersList": "客户名单 ",
+    "suppliers": "供应商",
+    "addSupplier": "供应商列表",
+    "suppliersList": "添加供应商",
+    "rawMaterials": "原材料管理",
+    "addRawMaterial": "添加原材料",
+    "rawMaterialsList": "原材料列表",
+    "orders": "订单",
+    "addOrder": "添加订单",
+    "ordersList": "订单列表",
+    "roleAndPermission": "角色和权限",
+    "addRoleAndPermission": "添加角色和权限",
+    "rolesAndPermissionsList": "角色和权限列表",
+    "settings": "设置",
+    "colors": "颜色",
+    "types": "类型",
+    "categories": "类别",
+    "generalSettings": "常规设置",
+    "usersManagement": "用户管理"
+  }
+}
